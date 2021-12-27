@@ -1,0 +1,336 @@
+/* MARGIN AUTO */
+
+.ML-auto {
+    margin-left: auto;
+}
+
+.MR-auto {
+    margin-right: auto;
+}
+
+.MX-auto {
+    margin: 0 auto;
+}
+
+
+/* PADDING + MARGIN - 8*/
+/* P8 */
+
+.p8 {
+    padding: 8px;
+}
+
+.p8-L {
+    padding-left: 8px;
+}
+
+.p8-R {
+    padding-right: 8px;
+}
+
+.p8-T {
+    padding-top: 8px;
+}
+
+.p8-B {
+    padding-bottom: 8px;
+}
+
+.p8-X {
+    padding: 0 8px;
+}
+
+.p8-Y {
+    padding: 8px 0;
+}
+
+/* M8 */
+
+.m8 {
+    margin: 8px;
+}
+
+.m8-L {
+    margin-left: 8px;
+}
+
+.m8-R {
+    margin-right: 8px;
+}
+
+.m8-T {
+    margin-top: 8px;
+}
+
+.m8-B {
+    margin-bottom: 8px;
+}
+
+.m8-X {
+    margin: 0 8px;
+}
+
+.m8-Y {
+    margin: 8px 0;
+}
+
+
+
+/* PADDING + MARGIN - 16*/
+/* P16 */
+
+.p16 {
+    padding: 16px;
+}
+
+.p16-L {
+    padding-left: 16px;
+}
+
+.p16-R {
+    padding-right: 16px;
+}
+
+.p16-T {
+    padding-top: 16px;
+}
+
+.p16-B {
+    padding-bottom: 16px;
+}
+
+.p16-X {
+    padding: 0 16px;
+}
+
+.p16-Y {
+    padding: 16px 0;
+}
+
+/* M16 */
+
+.m16 {
+    margin: 16px;
+}
+
+.m16-L {
+    margin-left: 16px;
+}
+
+.m16-R {
+    margin-right: 16px;
+}
+
+.m16-T {
+    margin-top: 16px;
+}
+
+.m16-B {
+    margin-bottom: 16px;
+}
+
+.m16-X {
+    margin: 0 16px;
+}
+
+.m16-Y {
+    margin: 16px 0;
+}
+
+
+/* PADDING + MARGIN - 24*/
+/* P24 */
+
+.p24 {
+    padding: 24px;
+}
+
+.p24-L {
+    padding-left: 24px;
+}
+
+.p24-R {
+    padding-right: 24px;
+}
+
+.p24-T {
+    padding-top: 24px;
+}
+
+.p24-B {
+    padding-bottom: 24px;
+}
+
+.p24-X {
+    padding: 0 24px;
+}
+
+.p24-Y {
+    padding: 24px 0;
+}
+
+/* M24 */
+
+.m24 {
+    margin: 24px;
+}
+
+.m24-L {
+    margin-left: 24px;
+}
+
+.m24-R {
+    margin-right: 24px;
+}
+
+.m24-T {
+    margin-top: 24px;
+}
+
+.m24-B {
+    margin-bottom: 24px;
+}
+
+.m24-X {
+    margin: 0 24px;
+}
+
+.m24-Y {
+    margin: 24px 0;
+}
+
+
+
+/* PADDING + MARGIN - 32*/
+/* P32 */
+
+.p32 {
+    padding: 32px;
+}
+
+.p32-L {
+    padding-left: 32px;
+}
+
+.p32-R {
+    padding-right: 32px;
+}
+
+.p32-T {
+    padding-top: 32px;
+}
+
+.p32-B {
+    padding-bottom: 32px;
+}
+
+.p32-X {
+    padding: 0 32px;
+}
+
+.p32-Y {
+    padding: 32px 0;
+}
+
+/* M32 */
+
+.m32 {
+    margin: 32px;
+}
+
+.m32-L {
+    margin-left: 32px;
+}
+
+.m32-R {
+    margin-right: 32px;
+}
+
+.m32-T {
+    margin-top: 32px;
+}
+
+.m32-B {
+    margin-bottom: 32px;
+}
+
+.m32-X {
+    margin: 0 32px;
+}
+
+.m32-Y {
+    margin: 32px 0;
+}
+
+
+
+/* PADDING + MARGIN - 64*/
+/* P64 */
+
+.p64 {
+    padding: 64px;
+}
+
+.p64-L {
+    padding-left: 64px;
+}
+
+.p64-R {
+    padding-right: 64px;
+}
+
+.p64-T {
+    padding-top: 64px;
+}
+
+.p64-B {
+    padding-bottom: 64px;
+}
+
+.p64-X {
+    padding: 0 64px;
+}
+
+.p64-Y {
+    padding: 64px 0;
+}
+
+/* M64 */
+
+.m64 {
+    margin: 64px;
+}
+
+.m64-L {
+    margin-left: 64px;
+}
+
+.m64-R {
+    margin-right: 64px;
+}
+
+.m64-T {
+    margin-top: 64px;
+}
+
+.m64-B {
+    margin-bottom: 64px;
+}
+
+.m64-X {
+    margin: 0 64px;
+}
+
+.m64-Y {
+    margin: 64px 0;
+}
+
+/* P48 */
+.p48-T {
+    padding-top: 48px;
+}
+
+/* P56 */
+.p56-B {
+    padding-bottom: 56px;
+}

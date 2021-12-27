@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #00568a;
+    background: url(./img/waterback.gif);
+}
+
+.banner {
+    background: url(./img/Personagens.png) no-repeat right;
+}
+
+/* FONT + TEXT */
+
+h1 {
+    font-weight: 800px;
+    line-height: 98px;
+    font-size: 72px;
+}
+
+h2 {
+    font-weight: 800;
+    line-height: 64px;
+    font-size: 48px;
+}
+
+h3 {
+    font-weight: 800;
+    line-height: 54px;
+    font-size: 40px;
+    text-shadow: 2px 2px #6fd7ff;
+}
+
+h4 {
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 28px;
+}
+
+h5 {
+    font-weight: 600;
+    line-height: 32px;
+    font-size: 24px;
+}
+
+
+/* header */
+header {
+    width: 100%;
+    z-index: 100;
+}
+
+.menu {
+    background: url(./img/navmain.gif) no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    margin-top: 2px;
+}
+
+.menu li {
+    margin-left: 48px;
+}
+
+.PR {
+    padding-right: 40px;
+}
+
+.menu li a {
+    color: #00568a;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.menu li a:hover {
+    opacity: .8;
+}
+
+
+/* Arch Bishop*/
+
+.AB {
+    text-align: center;
+}
+
+/* Overview */
+
+
+.Overview {
+    background: rgba(245, 241, 186, 0.652);
+}
+
+.Overview h5 {
+    padding-left: 16px;
+    color: #E77881;
+}
+
+.Overview p {
+    padding-left: 16px;
+}
+
+/* Job Change*/
+
+.box {
+    position: relative;
+    display: block;
+    border: 1px solid #2ba6e1;
+    text-decoration: none;
+}
+
+.job {
+    padding: 2px 0;
+    background: #2ba6e1;
+    color: #fff;
+}
+
+.job-name {
+    border-top: 1px dashed #6fd7ff;
+    border-bottom: 1px dashed #6fd7ff;
+}
+
+.JC img {
+    padding: 10px 0;
+}
+
+.arrow {
+    left: 100%;
+    top: 50%;
+    border: 10px solid transparent;
+    border-left-color: #2ba6e1;
+    content: "";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    margin-top: -10px;
+}
+.JC ul {
+    list-style-type: circle;
+}
+.JC li {
+    margin-left: 48px;
+    padding-top: 16px;
+}
+
+
+/* BUILDS */
+.Builds img {
+    width: 70%;
+    transition: all 0.2s;
+    cursor: pointer; 
+}
+
+.Builds {
+    background: #c0835552;
+}
+
+.sub {
+    line-height: 16px;
+    font-size: 12px;
+}
+
+.Builds ul {
+    list-style-type: circle;
+}
+.Builds li {
+    margin-left: 24px;
+    padding-top: 16px;
+}
+
+.anime {
+    transition: all 2s;
+}
+.anime:hover {
+    transform: scale(1.2) translate(25px, 25px)
+}
+
+/* Class Data */
+
+.CD h5{
+    padding: 16px;;
+}
+
+.CD img {
+    padding-left: 24px;
+}
+.CD p{
+    line-height: 24px;
+    font-size: 16px;
+}
+.Offensive {
+    width: 1000px;
+    margin: 0 auto;
+    background:#FFCCCC ;
+    border-radius: 10px;
+}
+
+.Active {
+    background: #CCFFCC;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.Supportive {
+    background: #CCFFFF;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.Passive {
+    background: #CCCCCC;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/* Skill Preview */
+  
+/* FOOTER */
+.footer ul {
+    list-style: none;
+    display: flex;
+    margin-top: 2px;
+}
+.bg {
+    background: url(./img/navmain.gif) no-repeat center;
+    background-size: 100%;
+    margin-top: 24px;
+}
+.footer li {
+    padding-left: 16px;
+}
+
+.footer img {
+    width: 60px;
+}
